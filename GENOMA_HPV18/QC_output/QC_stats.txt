@@ -1,0 +1,10 @@
+Run QC - Mon Nov 17 01:51:02 UTC 2025
+Input fasta: sequence.fasta
+Sequence ID: AY262282.1
+
+file                            format  type  num_seqs  sum_len  min_len  avg_len  max_len
+QC_output/HPV18_filtrada.fasta  FASTA   DNA          1    7,857    7,857    7,857    7,857
+
+Length (nt): 7857
+N count: 0
+GC count: 3177 (GC% = 40.44)

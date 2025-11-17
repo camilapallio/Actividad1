@@ -1,0 +1,18 @@
+>AY262282.1
+ORF1: 3418-3684, longitud=267
+ORF2: 4093-4236, longitud=144
+ORF3: 4381-4524, longitud=144
+ORF4: 6226-6615, longitud=390
+ORF5: 7138-7278, longitud=141
+ORF6: 7354-7611, longitud=258
+ORF7: 590-907, longitud=318
+ORF8: 914-2887, longitud=1974
+ORF9: 3971-4165, longitud=195
+ORF10: 4244-5632, longitud=1389
+ORF11: 105-581, longitud=477
+ORF12: 2817-3914, longitud=1098
+ORF13: 3936-4157, longitud=222
+ORF14: 4779-4907, longitud=129
+ORF15: 5277-5405, longitud=129
+ORF16: 5430-7136, longitud=1707
+ORF17: 7482-7670, longitud=189

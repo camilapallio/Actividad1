@@ -1,13 +1,25 @@
-# 🧬 Análisis de Polimorfismos Genómicos del Virus del Papiloma Humano (VPH)
+# Determinación de polimorfismo de Virus del Papiloma Humano. (Actividad 1)
 
-## 1. Propósito y Objetivos del Proyecto
+## Descripción y propósito
 
-Este repositorio aloja las **secuencias genómicas de referencia** de los principales genotipos del Virus del Papiloma Humano (VPH) asociados a patologías de alto y bajo riesgo.
+Este repositorio ha sido creado como parte de la actividad grupal "**Crear un repositorio github. Control de versiones**".
 
-El proyecto se enmarca dentro de la **Actividad 1: Introducción a la Programación Científica** de la Maestría en Bioinformática, con enfoque en la **creación y gestión de repositorios** utilizando GitHub.
+La finalidad de esta actividad es poner en practica el uso de Git y GitHub, demostrando lo esencial que es esta herramienta para el control de versiones, a colaboración y la gestión de archivos. 
 
-## 2. Objetivos Clave
+## Estructura del proyecto
+---------Aquí debemos agregar la descripción y organización de nuestrar carpetas y archivos... creo... -----------
 
-* **Centralización de Datos:** Establecer una fuente única y versionada de las secuencias de genoma completo de los genotipos clave de VPH (16, 18, 31, 6 y 11).
-* **Trazabilidad:** Utilizar ramas de Git para gestionar y comparar distintas versiones o formatos de las secuencias a lo largo del análisis bioinformático.
-* **Base para el Análisis:** Proveer el *input* necesario para la identificación de Marcos de Lectura Abiertos (**ORFs**) y la búsqueda de homología (**BLAST**) en fases posteriores del proyecto.
+
+## Integrantes
+Los colaboradores de este repositorio son:
+
+* **Camila Paola Allioo** (GitHub: `camilapallio`)
+* **Axel Maldonado Baliellas** (GitHub: `AMB-BQ`)
+* **Pablo Francisco Isa** (GitHub: `pabloi25`)
+* **Luis Castillo Mollo** (GitHub: `luis9268`)
+* **Mariano Jose Mansilla** (GitHub: `mansillamarianojose255`)
+  
+## Licencia
+
+Este proyecto se encuentra bajo la licencia **MIT License**.
+

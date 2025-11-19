@@ -7,9 +7,17 @@ Este repositorio ha sido creado como parte de la actividad grupal "**Crear un re
 La finalidad de esta actividad es poner en practica el uso de Git y GitHub, demostrando lo esencial que es esta herramienta para el control de versiones, a colaboración y la gestión de archivos. 
 
 ## Estructura del proyecto
----------Aquí debemos agregar la descripción y organización de nuestrar carpetas y archivos... creo... -----------
+Este repositorio cuenta con 3 carpetas principales:
 
-
+[Actividad1]/
+├── README.md  (Documentación general del proyecto )
+│ 
+├── Data/ (Datos guarda todo archivo que serán necesarios para ejecutar nuestros Scripts)
+│   
+├── Resultados/  (Resultados almacena todo lo que se obtendrá de los diferentes análisis)
+│   
+└── Scripts/  (Scripts de los diversos algoritmos que requeriremos)
+    
 ## Integrantes
 Los colaboradores de este repositorio son:
 

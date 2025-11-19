@@ -1,3 +1,0 @@
-Longitud de la secuencia: 7857
-Conteo de bases: {'A': 2365, 'T': 2315, 'C': 1491, 'G': 1686}
-GC%: 40.44%

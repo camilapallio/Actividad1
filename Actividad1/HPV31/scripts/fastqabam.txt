@@ -1,1 +1,0 @@
-aca iríamos del fastq al bam

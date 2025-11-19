@@ -13,10 +13,11 @@ La finalidad de esta actividad es poner en practica el uso de Git y GitHub, demo
 ## Integrantes
 Los colaboradores de este repositorio son:
 
-* **Camila Allio** (GitHub: `camilapallio`)
-* **AMB-BQ** (GitHub: `AMB-BQ`)
-* **pabloi25** (GitHub: `pabloi25`)
+* **Camila Paola Allioo** (GitHub: `camilapallio`)
+* **Axel Maldonado Baliellas** (GitHub: `AMB-BQ`)
+* **Pablo Francisco Isa** (GitHub: `pabloi25`)
 * **Luis Castillo Mollo** (GitHub: `luis9268`)
+* **Mariano Jose Mansilla** (GitHub: `mansillamarianojose255`)
   
 ## Licencia
 

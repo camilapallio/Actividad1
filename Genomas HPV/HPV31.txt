@@ -1,7 +1,7 @@
 Human papillomavirus 31 isolate 118A.31, complete genome
 Fuente: GenBank
 Accession: KU298890
-Link: https://www.ncbi.nlm.nih.gov/nuccore/KU298890.1
+Link: https://www.ncbi.nlm.nih.gov/nuccore/KU298890.1?report=fasta
 
 >KU298890.1 Human papillomavirus 31 isolate 118A.31, complete genome
 TAATAATAATAATCTTAGTATAAAAAAGTAGGGAGTGACCGAAAGTGGTGAACCGAAAACGGTTGGTATA

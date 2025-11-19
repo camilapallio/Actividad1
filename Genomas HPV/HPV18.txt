@@ -1,5 +1,7 @@
 Human papillomavirus 18 isolate 83A.18, complete genome
-ACCESSION: KU298886
+Fuente: GenBank
+Accession: KU298886
+Link: https://www.ncbi.nlm.nih.gov/nuccore/KU298886.1?report=fasta
 
 >KU298886.1 Human papillomavirus 18 isolate 83A.18, complete genome
 ATTAATACTTTTAACAATTGTAGTATATAAAAAAGGGAGTAACCGAAAACGGTCGGGACCGAAAACGGTG
